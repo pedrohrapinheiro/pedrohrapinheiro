@@ -92,9 +92,9 @@ pedro = {
 
 <div align="center">
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropinheiro&show_icons=true&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0d0d0d)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohrapinheiro&show_icons=true&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0d0d0d)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropinheiro&layout=compact&theme=dark&hide_border=true&title_color=D4AF37&text_color=ffffff&bg_color=0d0d0d)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrapinheiro&layout=compact&theme=dark&hide_border=true&title_color=D4AF37&text_color=ffffff&bg_color=0d0d0d)
 
 </div>
 
@@ -104,7 +104,7 @@ pedro = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedropinheiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedropinheiro.dev)
-[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pedropinheiro@email.com)
+[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pedrohrapinheiro@gmail.com)
 
 ---
 
