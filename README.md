@@ -104,7 +104,7 @@ pedro = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedropinheiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedropinheiro.dev)
-[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pedrohrapinheiro@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pedropinheiro@email.com)
 
 ---
 
@@ -113,15 +113,5 @@ pedro = {
 *"The best way to predict the future is to build it."*
 
 **`while(!success) { learn(); build(); repeat(); }`**
-
-</div>
-
-## 🚀 Projects
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| ![Projects Done](https://img.shields.io/badge/Projects%20Done-12-D4AF37?style=for-the-badge&labelColor=0d0d0d) | ![Contributed](https://img.shields.io/badge/Contributed%20To-5-3178C6?style=for-the-badge&labelColor=0d0d0d) |
 
 </div>
